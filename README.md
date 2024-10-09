@@ -1,4 +1,4 @@
 # Meme Kanseri Teşhisinde Yapay Zeka Uygulamaları
-DNN (Derin Sinir Ağları) modeli kullanarak geliştirdiğim Meme Kanseri teşhis projesi.
+
 
 Meme kanseri, meme dokusundaki hücrelerin anormal şekilde büyüyerek tümör oluşturduğu bir kanser türüdür. Genellikle, meme hücreleri belirli bir kontrol mekanizması ile büyür ve bölünür. Ancak genetik faktörler, hormonlar ve çevresel etmenler bu süreci bozabilir, sonuç olarak kanserli hücreler ortaya çıkabilir. Meme kanserinin erken teşhisi, tedavi sürecinin başarısını önemli ölçüde artırır. Derin sinir ağları (DNN) kullanarak meme kanserinin teşhisi, görüntü işleme teknikleriyle mamografi gibi tıbbi görüntülerin analizini içerir. DNN, büyük veri kümesi üzerinde eğitilerek, kanserli lezyonları sağlıklı dokulardan ayırt etme yeteneğine sahip derin öğrenme modelleridir. Bu modeller, karmaşık desenleri öğrenerek, doğru ve güvenilir teşhis sağlamak için kullanılabilir. Böylece, DNN teknolojileri, klinik uygulamalarda meme kanserinin erken tespiti için etkili bir araç haline gelmektedir.
